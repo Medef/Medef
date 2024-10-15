@@ -12,4 +12,4 @@ My main specialization is `SwiftUI`, but I also have over 5 years of experience 
 4. [Готовька](https://apps.apple.com/ru/app/%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D1%8C%D0%BA%D0%B0/id1474360242) `iOS`
 
 
-📬 You can reach me: [Telegram](t.me/dev_medef00), [Email](medef00@gmail.com).
+📬 You can reach me: [Telegram](https://t.me/dev_medef00), [Email](medef00@gmail.com).
